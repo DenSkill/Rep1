@@ -1,0 +1,6 @@
+[
+  "tests/test_utils.py::test_get_data",
+  "tests/test_utils.py::test_get_filtered_data",
+  "tests/test_utils.py::test_get_formatted_data",
+  "tests/test_utils.py::test_get_last_values"
+]
